@@ -30,10 +30,7 @@
     "api": 6,
     "displayName": "思考中文",
     "describe": "describe.json",
-    "tags": [
-      "prompt",
-      "companion"
-    ],
+    "tags": ["coopanion"],
     "locales": {
       "zh": {
         "displayName": "思考中文",
